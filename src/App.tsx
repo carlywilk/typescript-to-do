@@ -2,7 +2,7 @@ import React from 'react'
 
 import ToDoApp from './components/Todo/ToDoApp'
 
-import './App.css'
+import './App.scss'
 
 function App() {
   return (
